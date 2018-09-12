@@ -1,11 +1,10 @@
 Package: geneFiltering
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Gene Filtering for Pathway Analysis
 Version: 0.1.0
-Author: Who wrote it
+Author: Lorin Miller and Fan Zheng
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Gene filtering algorithm for pathway analysis that involves two data types.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
