@@ -1,6 +1,6 @@
 \name{geneFiltering}
-\alias{geneFiltering}
-\title{Gene Filtering for Pathway Analysis}
+\alias{simPathwaySystem}
+\title{Gene Pathway Simulation}
 \usage{
 simPathwaySystem(alpha, Rsq, nsample, rind, nx, nxPrime, ns, ntranscriptNoise, ng, ngPrime, nh, ngeneNoise, noiseSD)
 }
